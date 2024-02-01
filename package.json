@@ -9,7 +9,7 @@
   "author": "Cormac Taylor",
   "license": "UNLICENSED",
   "devDependencies": {
-    "react": "^18.2.0",
+    "react": "^17.0.1",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
